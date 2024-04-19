@@ -1,3 +1,3 @@
 $("#nao").click(function(){
-    alert("Tem certeza mariana?");
+    alert("Pode não man");
 })
